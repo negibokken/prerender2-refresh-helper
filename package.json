@@ -4,7 +4,7 @@
   "description": "This is a helper for refreshing Prerender2",
   "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo No test"
   },
   "repository": {
     "type": "git",
