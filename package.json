@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/negibokken/prerender2-refresh-helper/issues"
   },
-  "homepage": "https://github.com/negibokken/prerender2-refresh-helper#readme"
+  "homepage": "https://github.com/negibokken/prerender2-refresh-helper#readme",
+  "publishConfig": {
+    "@negibokken:registry": "https://npm.pkg.github.com"
+  }
 }
