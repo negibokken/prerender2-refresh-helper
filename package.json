@@ -1,0 +1,24 @@
+{
+  "name": "@negibokken/prerender2-refresh-helper",
+  "version": "0.0.1",
+  "description": "This is a helper for refreshing Prerender2",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/negibokken/prerender2-refresh-helper.git"
+  },
+  "keywords": [
+    "Prerender2",
+    "helper",
+    "JavaScript"
+  ],
+  "author": "@negibokken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/negibokken/prerender2-refresh-helper/issues"
+  },
+  "homepage": "https://github.com/negibokken/prerender2-refresh-helper#readme"
+}
